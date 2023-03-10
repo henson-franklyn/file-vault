@@ -1,23 +1,22 @@
 {
-    "name": "soarecostin/file-vault",
+    "name": "henson-franklyn/file-vault",
     "description": "",
     "keywords": [
         "laravel", "encrypt", "decrypt", "encryption", "decryption",
         "cbc", "php", "file", "file-vault"
     ],
-    "homepage": "https://github.com/soarecostin/file-vault",
+    "homepage": "https://github.com/henson-franklyn/file-vault",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Costin Soare",
-            "email": "soarecostin@gmail.com",
-            "role": "Developer"
+            "name": "Henson Franklny",
+            "role": "Software Manager"
         }
     ],
     "require": {
         "php": "^7.2|^8.0",
-        "illuminate/support": "5.8.* || 6.*.* || ^7.0 || ^8.0"
+        "illuminate/support": "^9.0 || ^10.0"
     },
     "require-dev": {
         "orchestra/testbench": "^5.0|^6.0",
